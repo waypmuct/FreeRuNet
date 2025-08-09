@@ -1,0 +1,4 @@
+warp.llimonix.pw
+config-generator-warp.vercel.app/
+warp-gen.vercel.app/
+warp-vless.vercel.app/
