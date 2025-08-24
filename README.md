@@ -4,8 +4,8 @@ This repository will allow you to use the Internet fully in the Russian Federati
 
 Repo content:
 - amneziawg-amd64-1.0.2.msi -- installation file for Windows.
-- GeneralWarpgens -- contains various created configurations (they may not work).
-- IsWorking -- only tested and working configurations are located at this address.
+- generalWarpgens -- contains various created configurations (they may not work).
+- isWorking -- only tested and working configurations are located at this address.
 
 Services for generating configurations:
 - warp.llimonix.pw
