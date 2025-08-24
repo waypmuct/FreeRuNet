@@ -1,6 +1,6 @@
 Welcome
 
-This repository will allow you to use the Internet fully in the Russian Federation. Using the Amnesia WG client and various configuration settings, you can use certain services without restrictions.
+This repository will allow you to use the Internet fully in the Russian Federation. Using the AmneziaWG client and various configuration settings, you can use certain services without restrictions.
 
 Repo content:
 - amneziawg-amd64-1.0.2.msi -- installation file for Windows.
