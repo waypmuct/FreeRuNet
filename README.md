@@ -1,12 +1,9 @@
-================
-	WELCOME
-================
+
+WELCOME
 
 This repository will allow you to use the Internet fully in the Russian Federation. Using the AmneziaVPN client and various configuration settings, you can use certain services without restrictions.
 
-===================
-	AMNEZIA VPN
-===================
+AMNEZIA VPN
 
 You can download AmneziaVPN client officially:
 
@@ -22,16 +19,12 @@ https://play.google.com/store/apps/details?id=org.amnezia.vpn
 Repo content:
 - workingConfigurations -- only tested and working configurations are located at this address.
 
-===============================
-	ZAPRET-DISCORD-YOUTUBE
-===============================
+ZAPRET-DISCORD-YOUTUBE
 
 You can get current version from another github repository:
 https://github.com/Flowseal/zapret-discord-youtube
 
-===================
-	THANK YOU
-===================
+THANK YOU
 
 I hope, in the future, we won't need anything of that to use Internet. 
 #FreeRuNet #СвободаРуНету
